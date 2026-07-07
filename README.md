@@ -176,10 +176,14 @@ Recreated Duolingo's gamified interface as a cross-platform Flutter app, with dy
 <br/>
 
 ## 🌱 Currently Learning
-▸ Backend development & API design (FastAPI, REST)
+▸ Backend development & API design (FastAPI, REST) 
+
 ▸ AI automation & agentic workflows
+
 ▸ Large Language Models (LLMs) & prompt engineering
+
 ▸ Advancing machine learning model evaluation & explainability
+
 
 <br/>
 
