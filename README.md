@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D0B,100:22C55E&height=200&section=header&text=T%20E%20H%20M%20E%20E%20N%20A%20%20%20B%20I%20B%20I&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Curious%20enough%20to%20break%20things.&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7F1D1D,100:EF4444&height=200&section=header&text=T%20E%20H%20M%20E%20E%20N%20A%20%20%20B%20I%20B%20I&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Curious%20enough%20to%20break%20things.&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=34&duration=1&pause=100000&color=166534&center=true&vCenter=true&width=600&height=60&lines=~+Tehmeena+Bibi+~" alt="signature"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=34&duration=1&pause=100000&color=EF4444&center=true&vCenter=true&width=600&height=60&lines=~+Tehmeena+Bibi+~" alt="signature"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-166534?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7F1D1D?style=for-the-badge&logo=vercel&logoColor=white" />
 <a href="https://www.linkedin.com/in/tehmeena-bibi-b20345326">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:tehmeenabibi121@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-166534?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-7F1D1D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI+%2F+Machine+Learning;%F0%9F%97%84%EF%B8%8F+Data+%26+Backend+Systems;%F0%9F%8E%A8+UI%2FUX+Design;%F0%9F%90%9B+Software+Quality+Assurance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI+%2F+Machine+Learning;%F0%9F%97%84%EF%B8%8F+Data+%26+Backend+Systems;%F0%9F%8E%A8+UI%2FUX+Design;%F0%9F%90%9B+Software+Quality+Assurance" alt="Typing SVG" />
 </a>
 
 </div>
@@ -80,8 +80,8 @@ currently_learning:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-166534?style=flat-square&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-166534?style=flat-square&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7F1D1D?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-7F1D1D?style=flat-square&logo=codeforces&logoColor=white"/>
 
 **Databases**
 
@@ -92,19 +92,19 @@ currently_learning:
 **AI / Image Processing**
 
 <img src="https://img.shields.io/badge/CNNs-000000?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-0B3D0B?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grad--CAM-22C55E?style=flat-square&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/MobileNetV2-166534?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-7F1D1D?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grad--CAM-EF4444?style=flat-square&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/MobileNetV2-7F1D1D?style=flat-square&logo=tensorflow&logoColor=white"/>
 
 **Design / QA / Tools**
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graphic%20Designing-166534?style=flat-square&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graphic%20Designing-7F1D1D?style=flat-square&logo=adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Manual%20Testing-0B3D0B?style=flat-square&logo=testinglibrary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-7F1D1D?style=flat-square&logo=testinglibrary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
@@ -197,15 +197,15 @@ Recreated Duolingo's gamified interface as a cross-platform Flutter app, with dy
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Database%20Management%20Systems-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Software%20Quality%20Assurance-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Compiler%20Construction-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Computer%20Networks-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Digital%20Image%20Processing-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Operating%20Systems-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-OOP-166534?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Artificial%20Intelligence-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Database%20Management%20Systems-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Software%20Quality%20Assurance-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Compiler%20Construction-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Computer%20Networks-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Digital%20Image%20Processing-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Operating%20Systems-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-OOP-7F1D1D?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Artificial%20Intelligence-7F1D1D?style=flat-square"/>
 
 </div>
 
@@ -223,12 +223,12 @@ Recreated Duolingo's gamified interface as a cross-platform Flutter app, with dy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tehmeena-Bibi&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=22C55E&icon_color=22C55E&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tehmeena-Bibi&hide_border=true&background=000000&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tehmeena-Bibi&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=EF4444&icon_color=EF4444&text_color=ffffff" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Tehmeena-Bibi&hide_border=true&background=000000&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehmeena-Bibi&layout=compact&hide_border=true&bg_color=000000&title_color=22C55E&text_color=ffffff" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehmeena-Bibi&layout=compact&hide_border=true&bg_color=000000&title_color=EF4444&text_color=ffffff" width="50%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tehmeena-Bibi&hide_border=true&bg_color=000000&color=22C55E&line=22C55E&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tehmeena-Bibi&hide_border=true&bg_color=000000&color=EF4444&line=EF4444&point=ffffff" width="100%"/>
 
 </div>
 
@@ -241,7 +241,7 @@ Recreated Duolingo's gamified interface as a cross-platform Flutter app, with dy
 I'm open to **collaboration, freelance work, and internships** in AI, Data & Backend, UI/UX, or SQA — let's talk.
 
 <a href="mailto:tehmeenabibi121@gmail.com">
-  <img src="https://img.shields.io/badge/-Say%20Hello-166534?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Say%20Hello-7F1D1D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/tehmeena-bibi-b20345326">
   <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -249,6 +249,6 @@ I'm open to **collaboration, freelance work, and internships** in AI, Data & Bac
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
