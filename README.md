@@ -128,8 +128,8 @@ End-to-end ML pipeline classifying X-rays as under/properly/overexposed using a 
 </td>
 <td width="50%">
 
-### 🗄️ Venture Management Database
-**Enterprise Schema for Ventures & Investments**
+### 🗄️ Ventureflow Management Database
+**Enterprise Schema for Venturesflow & Investments**
 
 Designed a full E-R model to track business ventures, client acquisitions, and investment distributions. Applied multi-level normalization (1NF–3NF) to eliminate redundancy, with complex SQL joins/subqueries in MySQL alongside flexible MongoDB collections.
 
